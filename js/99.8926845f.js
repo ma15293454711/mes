@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkzuoye"]=self["webpackChunkzuoye"]||[]).push([[99],{1099:function(t,u,e){e.r(u),e.d(u,{default:function(){return v}});var n=function(){var t=this,u=t._self._c;return u("div",[u("h1",[t._v("演出")]),u("van-button",{attrs:{type:"primary"},on:{click:function(u){return t.toast()}}},[t._v("主要按钮")])],1)},r=[],l=e(144),s=e(5791),a=e(9146);l["default"].use(a.Z),l["default"].use(s.Z);var o={methods:{}},c=o,f=e(1001),i=(0,f.Z)(c,n,r,!1,null,null,null),v=i.exports}}]);
+//# sourceMappingURL=99.8926845f.js.map
